@@ -1,1 +1,1 @@
-web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT --session-store memcache target/com.hubsport.war
+web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT --session-store memcache target/hubsport.war

@@ -50,5 +50,10 @@
   		<artifactId>spring-jdbc</artifactId>
   		<version>4.3.9.RELEASE</version>
   	</dependency>
+  	<dependency>
+  		<groupId>com.github.jsimone</groupId>
+  		<artifactId>webapp-runner</artifactId>
+  		<version>8.5.15.1</version>
+  	</dependency>
   </dependencies>
 </project>
